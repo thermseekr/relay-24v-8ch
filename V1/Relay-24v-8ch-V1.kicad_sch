@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "8x 24V Relay Module")
+    (date "2023-05-20")
+    (rev "V1")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 2.54 0)
@@ -1707,7 +1713,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D15") (unit 1)
         )
@@ -1737,7 +1743,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR02") (unit 1)
         )
@@ -1789,7 +1795,7 @@
           (reference "RV1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "RV5") (unit 1)
         )
@@ -1844,7 +1850,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D8") (unit 1)
         )
@@ -1898,7 +1904,7 @@
           (reference "K1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "K7") (unit 1)
         )
@@ -1952,7 +1958,7 @@
           (reference "K1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "K3") (unit 1)
         )
@@ -2004,7 +2010,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J8") (unit 1)
         )
@@ -2059,7 +2065,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "R6") (unit 1)
         )
@@ -2120,7 +2126,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D1") (unit 1)
         )
@@ -2150,7 +2156,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR09") (unit 1)
         )
@@ -2211,7 +2217,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D10") (unit 1)
         )
@@ -2266,7 +2272,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "R8") (unit 1)
         )
@@ -2296,7 +2302,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR04") (unit 1)
         )
@@ -2351,7 +2357,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D11") (unit 1)
         )
@@ -2403,7 +2409,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J5") (unit 1)
         )
@@ -2458,7 +2464,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "R1") (unit 1)
         )
@@ -2488,7 +2494,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR06") (unit 1)
         )
@@ -2513,7 +2519,7 @@
     )
     (pin "1" (uuid b1271da5-dc60-425f-843d-1244e90c71e6))
     (instances
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#FLG01") (unit 1)
         )
@@ -2568,7 +2574,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "R5") (unit 1)
         )
@@ -2623,7 +2629,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D7") (unit 1)
         )
@@ -2678,7 +2684,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "R3") (unit 1)
         )
@@ -2732,7 +2738,7 @@
           (reference "K1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "K4") (unit 1)
         )
@@ -2787,7 +2793,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D16") (unit 1)
         )
@@ -2839,7 +2845,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J3") (unit 1)
         )
@@ -2891,7 +2897,7 @@
           (reference "RV1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "RV8") (unit 1)
         )
@@ -2945,7 +2951,7 @@
           (reference "K1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "K5") (unit 1)
         )
@@ -2999,7 +3005,7 @@
           (reference "K1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "K1") (unit 1)
         )
@@ -3060,7 +3066,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D14") (unit 1)
         )
@@ -3090,7 +3096,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR07") (unit 1)
         )
@@ -3142,7 +3148,7 @@
           (reference "RV1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "RV4") (unit 1)
         )
@@ -3197,7 +3203,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "R4") (unit 1)
         )
@@ -3252,7 +3258,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D3") (unit 1)
         )
@@ -3304,7 +3310,7 @@
           (reference "RV1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "RV2") (unit 1)
         )
@@ -3356,7 +3362,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J2") (unit 1)
         )
@@ -3408,7 +3414,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J4") (unit 1)
         )
@@ -3463,7 +3469,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "R7") (unit 1)
         )
@@ -3518,7 +3524,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "R2") (unit 1)
         )
@@ -3548,7 +3554,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR03") (unit 1)
         )
@@ -3565,7 +3571,7 @@
     (property "Value" "Conn_01x09" (at 25.4 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Tales:TerminalBlock_Dorabo_DB141V-2.54-09P_1x09_P2.54mm_Vertical" (at 25.4 54.61 0)
+    (property "Footprint" "Tales:TerminalBlock_DG141V-2.54-9P_1x09_P2.54mm_Vertical" (at 25.4 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 54.61 0)
@@ -3605,7 +3611,7 @@
     (pin "8" (uuid fbab5c66-b166-482e-8001-db9b0a99267b))
     (pin "9" (uuid 9f2d4928-c696-465c-8fc4-aeb61f165b7f))
     (instances
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J1") (unit 1)
         )
@@ -3635,7 +3641,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR08") (unit 1)
         )
@@ -3687,7 +3693,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J9") (unit 1)
         )
@@ -3739,7 +3745,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J7") (unit 1)
         )
@@ -3794,7 +3800,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D12") (unit 1)
         )
@@ -3846,7 +3852,7 @@
           (reference "RV1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "RV7") (unit 1)
         )
@@ -3907,7 +3913,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D13") (unit 1)
         )
@@ -3968,7 +3974,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D6") (unit 1)
         )
@@ -4022,7 +4028,7 @@
           (reference "K1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "K8") (unit 1)
         )
@@ -4052,7 +4058,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR01") (unit 1)
         )
@@ -4104,7 +4110,7 @@
           (reference "RV1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "RV6") (unit 1)
         )
@@ -4156,7 +4162,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "J6") (unit 1)
         )
@@ -4186,7 +4192,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "#PWR05") (unit 1)
         )
@@ -4247,7 +4253,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D5") (unit 1)
         )
@@ -4302,7 +4308,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D4") (unit 1)
         )
@@ -4363,7 +4369,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D2") (unit 1)
         )
@@ -4417,7 +4423,7 @@
           (reference "K1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "K6") (unit 1)
         )
@@ -4469,7 +4475,7 @@
           (reference "RV1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "RV1") (unit 1)
         )
@@ -4521,7 +4527,7 @@
           (reference "RV1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "RV3") (unit 1)
         )
@@ -4575,7 +4581,7 @@
           (reference "K1") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "K2") (unit 1)
         )
@@ -4636,7 +4642,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "Relay-24v-8ch"
+      (project "Relay-24v-8ch-V1"
         (path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
           (reference "D9") (unit 1)
         )
